@@ -40,8 +40,8 @@ Display all the Transformed images.
 
 ## Program:
 ```python
-Developed By: R ARUNRAJ
-Register Number: 212220230004
+Developed By: SHERWIN ROGER R.D
+Register Number: 212220230046
 i)Image Translation
 import numpy as np
 import cv2
